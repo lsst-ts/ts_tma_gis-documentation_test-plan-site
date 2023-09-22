@@ -347,7 +347,7 @@ LEDs, as it is shown in Fig. 1.
 In some cases, they are already connected to the corresponding I/Os, so they have been disconnected from the keypad,
 eliminating their function.
 
-![Test interface](./media/media/image4.png){width="6.298611111111111in" height="3.502083333333333in"}
+![Test interface](./media/media/image4.png)
 
 Fig. 1 Testing architecture.
 
@@ -5049,9 +5049,9 @@ During the tests, the user interface was being handled and some problems were de
 The first two problems have been solved after the completion of the tests. But the third one has not been solved and the
 consultation has been transferred to the team\'s supplier, Pilz, so this last point is still pending.
 
-![Texto, Carta Descripción generada automáticamente](./media/media/image5.png){width="1.8031091426071741in"
-height="0.5113298337707787in"} ![Dibujo en fondo blanco Descripción generada automáticamente con confianzamedia/media/image6.png
-media](./media/media/image6.png){width="1.7916666666666667in" height="1.1354166666666667in"}
+![francoSignature](./media/media/image5.png)
+
+![franciscoSignature](./media/media/image6.png)
 
 Franco Colleoni Francisco Javier López, CMSE®
 
